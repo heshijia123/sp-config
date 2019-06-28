@@ -12,10 +12,5 @@ public class Item {
 	private String name;
 	private Integer number;
 	//111111111111
-<<<<<<< HEAD
 	//33333333333333333
 }
-=======
-	//22222222222222222222222
-}
->>>>>>> branch 'master' of https://github.com/heshijia123/sp-config.git
